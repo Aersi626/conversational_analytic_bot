@@ -92,5 +92,3 @@ nba-chatbot/
 MIT — feel free to fork, adapt, and build on it!
 
 ---
-
-Made with 💙 by [Your Name]
